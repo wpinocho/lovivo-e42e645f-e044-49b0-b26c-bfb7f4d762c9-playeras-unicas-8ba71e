@@ -38,7 +38,7 @@ export const IndexUI = ({ logic }: IndexUIProps) => {
       <section 
         className="relative bg-gradient-to-br from-primary via-secondary to-accent py-24 overflow-hidden"
         style={{
-          backgroundImage: 'url(https://ptgmltivisbtvmoxwnhd.supabase.co/storage/v1/object/public/product-images/e42e645f-e044-49b0-b26c-bfb7f4d762c9/hero-banner.jpg)',
+          backgroundImage: 'url(https://ptgmltivisbtvmoxwnhd.supabase.co/storage/v1/object/public/product-images/e42e645f-e044-49b0-b26c-bfb7f4d762c9/hero-dark.jpg)',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
         }}
